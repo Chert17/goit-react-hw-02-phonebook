@@ -1,5 +1,5 @@
 import { Formik, Form, Field } from 'formik';
-import * as yup from 'yup';
+// import * as yup from 'yup';
 import PropTypes from 'prop-types';
 
 import { FormStyle, FormItem, Btn, InputName } from './ContactForm.styled';
